@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infobae.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.onesignal.com	TRUE	/	FALSE	1999999999	__cf_bm	69WgaPgL6fgrHCVkqPgGm98Op897R0jCPxsVMkRon5c-1754618780-1.0.1.1-OhbAurTB4I_YP0XpYIdzFStZtX3XWwNcAOy7ZsjuZ3g6AhUvzyrIwKT5Y_j_5rsz1g0x7lTWNo1bKFpdFfh_xZZJKOSwcCCLP90bMqW0agI
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
